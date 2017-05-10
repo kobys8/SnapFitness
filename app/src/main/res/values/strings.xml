@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Snap Fitness</string>
+    <string name="title_item_detail">Planet Fitness</string>
+    <string name="youthInfo">Youth (ages 14-17): $25</string>
+    <string name="adultInfo">Adult (18 and over): $50</string>
+    <string name="familyInfo">Family/Household: $75</string>
+    <string name="seniorInfo">Active Senior: $50</string>
+    <string name="comfortableText">We at Planet Fitness are here to provide a unique environment in which anyone – and we mean anyone – can be comfortable.</string>
+    <string name="judgmentFree">A diverse, Judgement Free Zone® where a lasting, active lifestyle can be built.</string>
+    <string name="forTheConsumer">In the end, it’s all about you.</string>
+    <string name="kickButt">We are not here to kiss your butt, only to kick it if that’s what you need.</string>
+</resources>
